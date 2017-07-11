@@ -36,6 +36,7 @@ a {
 .footer {
   background-color: dimgray;
   color: white;
+  text-align: left;
 }
 
 .copyright {
