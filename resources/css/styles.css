@@ -23,25 +23,19 @@ p {
   font-size: 14px;
 }
 
-li {
+a {
   font-size: 18px;
   text-decoration: underline;
 }
 
-.white-font {
-  color: white;
-}
-
 .background {
-  background-image: url('./resources/images/the-flatiron-building.png');
+  background-image: url('/broadway/resources/images/the-flatiron-building.png');
+  color: white;
 }
 
 .footer {
   background-color: dimgray;
-}
-
-.footer li {
-  display: inline;
+  color: white;
 }
 
 .copyright {
